@@ -1,0 +1,11 @@
+:root {
+  --color-primary: #9c5bda;
+  --color-second: #ff589e;
+  --color-text: #807780;
+  --color-bg: #f0f0fc;
+}
+
+*::selection {
+  background-color: var(--color-second);
+  color: white;
+}
